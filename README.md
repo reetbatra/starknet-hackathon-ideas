@@ -1,1 +1,12 @@
-
+| Name                              | Description                                                                                                                                                 | Theme                 | Example |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|---------|
+| **Decentralized Identity Wallet** | A wallet that allows users to manage their digital identities securely, leveraging zero-knowledge proofs for enhanced privacy.                              | Identity Management   |         |
+| **Credential Verification System**| A platform that enables users to verify their credentials (e.g., diplomas, certifications) without revealing sensitive information, using zk-SNARKs.       | Identity Management   |         |
+| **Private Voting Application**    | A voting system that ensures voter anonymity and election integrity by utilizing zero-knowledge proofs.                                                    | Governance            |         |
+| **Supply Chain Transparency**     | A solution that enhances supply chain transparency by allowing stakeholders to verify product authenticity without disclosing proprietary data.            | Supply Chain          |         |
+| **Anonymous Payment Protocol**    | A payment system that enables users to make transactions without revealing their identities, ensuring financial privacy.                                   | Financial Privacy     |         |
+| **Secure Data Marketplace**       | A marketplace where users can sell data without exposing the actual data, leveraging zero-knowledge proofs to validate data authenticity.                  | Data Privacy          |         |
+| **Decentralized KYC Solution**    | A Know Your Customer (KYC) platform that allows users to prove their identity to service providers without sharing personal data, using zero-knowledge proofs.| Compliance            |         |
+| **Private Health Records**        | A system that enables patients to share verifiable health records with doctors without revealing unnecessary personal information.                         | Healthcare            |         |
+| **Confidential Bidding Platform** | An auction system where bidders can place confidential bids, ensuring fair competition without disclosing bid amounts.                                     | Marketplaces          |         |
+| **Secure Messaging App**          | A messaging application that ensures end-to-end encryption and allows users to prove message authenticity without revealing message content.               | Communication         |         |
