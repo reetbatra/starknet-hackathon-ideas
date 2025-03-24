@@ -1,6 +1,6 @@
 # 🧠 Starknet Hackathon Idea Bank
 
-Welcome to a growing collection of project ideas built for — or inspired by — the Starknet ecosystem. These ideas span across multiple themes such as **DeFi**, **Identity**, **Gaming**, **AI Agents**, **Developer Tooling**, **AI Agents** and more.
+Welcome to a growing collection of project ideas built for — or inspired by — the Starknet ecosystem. These ideas span across multiple themes such as **DeFi**, **Identity**, **Gaming**, **AI Agents**, **Developer Tooling**, **AI Agents**, and more.
 
 This list is meant to spark creativity, help you kickstart your next hackathon submission, or find inspiration for building useful dApps and tools on Starknet.
 
