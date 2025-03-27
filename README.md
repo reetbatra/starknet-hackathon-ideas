@@ -23,7 +23,7 @@ Let’s help future builders ship faster by learning from what’s already been 
 
 | Name                               | Description                                                                                                              | Theme                | Example |
 |------------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------------------|---------|
-| Web3 insurance | provide insurance for lost wallets or assets while taking a monthy subscription fees based on coverage, protect diff classes of assets like funds, tokens, nft, etc. Tokenise this and swap Stark for your token | Consumer dApps        | 
+| Web3 insurance | provide insurance for lost wallets or assets while taking a monthy subscription fees based on coverage, protect diff classes of assets like funds, tokens, nft, etc. Tokenise this and swap Stark for your token | Consumer dApps        | https://fairside.io/ |
 | Pet Game | Stake STRK to get a pet as NFT, feed pet daily on schedule to upgrade your NFT, maintain leaderboard, pet dies if not feeded regualrly  | Onchain Gaming       | 
 | Decentralized KYC/Proof of Identity | Verify credentials like age, email, phone number, or GitHub contributions using Reclaim, and use them in a dApp on Starknet. | DID & Identity        |         |
 | Reputation-Based Lending           | Fetch credit scores or on-chain activity via Reclaim and build an undercollateralized lending dApp.                     | DeFi/Finance          |         |
